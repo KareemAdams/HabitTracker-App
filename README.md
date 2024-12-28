@@ -65,14 +65,14 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 👨‍💻 Authors
 
-	•	Your Name - GitHub Profile
-	•	Contributors - See the list of contributors who participated in this project.
+• Your Name - GitHub Profile
+• Contributors - See the list of contributors who participated in this project.
 
 
 🧾 Acknowledgments
 
-	•	Icons by FontAwesome.
-	•	Data visualization by Matplotlib.
+• Icons by FontAwesome.
+• Data visualization by Matplotlib.
 
 📬 Feedback & Support
 
