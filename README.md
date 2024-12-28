@@ -71,9 +71,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 🧾 Acknowledgments
 
-	•	Inspiration from productivity apps like Todoist and Habitica.
 	•	Icons by FontAwesome.
-	•	Data visualization by Chart.js.
+	•	Data visualization by Matplotlib.
 
 📬 Feedback & Support
 
