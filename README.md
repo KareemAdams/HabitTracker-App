@@ -2,7 +2,6 @@
 
 A simple and intuitive **Habit Tracker App** designed to help users build and maintain healthy habits. Track your progress, stay motivated, and achieve your goals!
 
----
 
 ## 🌟 Features
 
@@ -10,18 +9,15 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 - **Progress Visualization**: View streaks and progress through charts.
 - **Reminders and Notifications**: Get timely reminders to stay on track.
 - **Custom Habit Creation**: Create and personalize habits to suit your lifestyle.
-- **Dark Mode**: For comfortable use at any time of the day.
 
----
 
 ## 🚀 Tech Stack
 
-- **Frontend**: [React](https://reactjs.org), [Flutter](https://flutter.dev) _(Optional: Update this based on your tech stack)_  
-- **Backend**: [Node.js](https://nodejs.org), [Express.js](https://expressjs.com)  
-- **Database**: [MongoDB](https://www.mongodb.com)  
-- **Other Tools**: [Redux](https://redux.js.org), [Firebase](https://firebase.google.com) _(Optional: Modify as per your implementation)_  
+- **Frontend**: [Python](https://python.org), (requires Python 3.9 and above)
+- **Database**: [JSON](https://www.json.oorg)  
+- **Other Tools**: [Redux](https://redux.js.org)
 
----
+
 
 ## 🛠️ Installation
 
@@ -48,7 +44,9 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 🤝 Contributing
 
 Contributions are welcome! If you’d like to improve the app, please follow these steps:
+
 1.	Fork the repository.
+
 2.	Create a feature branch:
     git checkout -b feature-name
 
@@ -80,5 +78,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 📬 Feedback & Support
 
 Have feedback or need help? Feel free to open an issue or reach out at your-email@example.com.
-
-
