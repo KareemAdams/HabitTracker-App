@@ -13,7 +13,7 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
 ## 🚀 Tech Stack
 
-- **Frontend**: [Python](https://python.org), (requires Python 3.12 and above)
+- **Frontend**: [Python](https://python.org), (requires Python 3.11 and above)
 - **Database**: [JSON](https://www.json.oorg)  
 - **Other Tools**: [Redux](https://redux.js.org)
 
