@@ -77,4 +77,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 📬 Feedback & Support
 
-Have feedback or need help? Feel free to open an issue or reach out at your-email@example.com.
+Have feedback or need help? Feel free to open an issue or reach out at kareem@kerrysson.com.
