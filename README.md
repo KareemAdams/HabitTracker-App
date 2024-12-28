@@ -65,13 +65,13 @@ This project is not undr any licensed.
 
 ## 👨‍💻 Authors
 
-• Your Name - Kareem Adams
+•   Kareem Adams
 
 
 ## 🧾 Acknowledgments
 
-• Icons by FontAwesome.
-• Data visualization by Matplotlib.
+•   Icons by FontAwesome.
+•   Data visualization by Matplotlib.
 
 ## 📬 Feedback & Support
 
