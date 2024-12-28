@@ -35,13 +35,13 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
     npm start
 
 
-📈 How It Works
-1.	Add Habits: Create habits by specifying the name, frequency, and goal.
+## 📈 How It Works
+1.	Add Habits: Create habits by specifying the name and frequency.
 2.	Track Daily Progress: Mark habits as complete on a daily basis.
 3.	View Analytics: Get insights on habit streaks and completion rates.
 4.	Stay Motivated: Receive motivational reminders.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! If you’d like to improve the app, please follow these steps:
 
@@ -59,21 +59,20 @@ Contributions are welcome! If you’d like to improve the app, please follow the
 5.	Open a Pull Request.
 
 
-📄 License
+## 📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is not undr any licensed.
 
-👨‍💻 Authors
+## 👨‍💻 Authors
 
-• Your Name - GitHub Profile
-• Contributors - See the list of contributors who participated in this project.
+• Your Name - Kareem Adams
 
 
-🧾 Acknowledgments
+## 🧾 Acknowledgments
 
 • Icons by FontAwesome.
 • Data visualization by Matplotlib.
 
-📬 Feedback & Support
+## 📬 Feedback & Support
 
 Have feedback or need help? Feel free to open an issue or reach out at kareem@kerrysson.com.
