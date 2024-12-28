@@ -13,10 +13,9 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
 ## 🚀 Tech Stack
 
-- **Frontend**: [Python](https://python.org), (requires Python 3.9 and above)
+- **Frontend**: [Python](https://python.org), (requires Python 3.12 and above)
 - **Database**: [JSON](https://www.json.oorg)  
 - **Other Tools**: [Redux](https://redux.js.org)
-
 
 
 ## 🛠️ Installation
@@ -41,6 +40,7 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 3.	View Analytics: Get insights on habit streaks and completion rates.
 4.	Stay Motivated: Receive motivational reminders.
 
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you’d like to improve the app, please follow these steps:
@@ -63,6 +63,7 @@ Contributions are welcome! If you’d like to improve the app, please follow the
 
 - This project is not undr any licensed.
 
+
 ## 👨‍💻 Authors
 
 - Kareem Adams
@@ -72,6 +73,7 @@ Contributions are welcome! If you’d like to improve the app, please follow the
 
 - Icons by FontAwesome.
 - Data visualization by Matplotlib.
+
 
 ## 📬 Feedback & Support
 
