@@ -61,18 +61,18 @@ Contributions are welcome! If you’d like to improve the app, please follow the
 
 ## 📄 License
 
-This project is not undr any licensed.
+- This project is not undr any licensed.
 
 ## 👨‍💻 Authors
 
-•   Kareem Adams
+- Kareem Adams
 
 
 ## 🧾 Acknowledgments
 
-•   Icons by FontAwesome.
-•   Data visualization by Matplotlib.
+- Icons by FontAwesome.
+- Data visualization by Matplotlib.
 
 ## 📬 Feedback & Support
 
-Have feedback or need help? Feel free to open an issue or reach out at kareem@kerrysson.com.
+- Have feedback or need help? Feel free to open an issue or reach out at kareem@kerrysson.com.
