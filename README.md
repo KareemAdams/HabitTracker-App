@@ -32,10 +32,15 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
     cd habit-tracker-app
 
 3.	Install dependencies:
-    npm install
 
-4.	Start the development server:
-    npm start
+    - install Matplotlib
+        pip install matplotlib
+    
+    - install Python unittest
+        pip install unittest
+
+4.	Start HabitTracker app:
+    execute main.py
 
 
 ## 📈 How It Works
