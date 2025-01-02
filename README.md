@@ -9,6 +9,7 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 - **Progress Visualization**: View streaks and progress through charts.
 - **View Habit Analytics**: Get timely reminders to stay on track.
 - **Custom Habit Creation**: Create and personalize habits to suit your lifestyle.
+- **Command Line Interface**: for intuitive interaction and management of habits and tasks.
 
 
 ## 🚀 Tech Stack
