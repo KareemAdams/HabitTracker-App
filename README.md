@@ -19,6 +19,7 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
 - **Frontend**: [Python](https://python.org), (requires version 3.11 and above)
 - **Database**: [JSON](https://www.json.oorg)  
+- **Test Unit**: [unittest](https://docs.python.org/3.11/library/unittest.html)  
 - **Visualization Tools**: [Matplotlib](https://matplotlib.org), (requires version 3.7 and above)
 
 
