@@ -7,15 +7,15 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
 - **Daily Habit Tracking**: Monitor your habits with an easy-to-use interface.
 - **Progress Visualization**: View streaks and progress through charts.
-- **Reminders and Notifications**: Get timely reminders to stay on track.
+- **View Habit Analytics**: Get timely reminders to stay on track.
 - **Custom Habit Creation**: Create and personalize habits to suit your lifestyle.
 
 
 ## 🚀 Tech Stack
 
-- **Frontend**: [Python](https://python.org), (requires Python 3.11 and above)
+- **Frontend**: [Python](https://python.org), (requires version 3.11 and above)
 - **Database**: [JSON](https://www.json.oorg)  
-- **Other Tools**: [Redux](https://redux.js.org)
+- **Visualization Tools**: [Matplotlib](https://matplotlib.org), (requires version 3.7 and above)
 
 
 ## 🛠️ Installation
@@ -35,6 +35,7 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
 
 ## 📈 How It Works
+
 1.	Add Habits: Create habits by specifying the name and frequency.
 2.	Track Daily Progress: Mark habits as complete on a daily basis.
 3.	View Analytics: Get insights on habit streaks and completion rates.
