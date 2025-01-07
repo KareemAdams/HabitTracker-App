@@ -57,7 +57,7 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 10.	**View Longest Habit Streak:** Displays habit with the highest number streaks with GUI.
 11.	**View Struggled Habits Last Month:** Displays habit that user struggled with in the previous month with GUI.
 12.	**Logout:** Log out current user from the app.
-13.	**Exit App:** Exit Habit Tracker app.
+13.	**Exit App:** Exits Habit Tracker app.
 
 
 ## 🛠️ Tests
