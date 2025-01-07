@@ -47,17 +47,17 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
 1.	**Register User:** Create a new user with username and password.
 2.	**Login:** Log in user to the app.
-3.	**Load Predefined Habits:** Loads 5 predefined habits with 2 weekly and 3 daily habits.
-4.	**Add New Habit:** Adds new habit by specifying name and frequency (daily or weekly).
-5.	**Check-off Habits:** Marks habit by specifying it's name as completed.
-6.	**Delete Habit:** Deletes habit by specifying it's name.
-7.	**View Daily Habits:** Displays daily habits with their streaks with GUI.
-8.	**View Weekly Habits:** Displays weekly habits with their streaks with GUI.
-9.	**View All Habits:** Displays all habits including their creation date and thier number of streaks with GUI.
-10.	**View Longest Habit Streak:** Displays habit with the highest number streaks with GUI.
-11.	**View Struggled Habits Last Month:** Displays habit that user struggled with in the previous month with GUI.
+3.	**Load Predefined Habits:** Load 5 predefined habits with 2 weekly and 3 daily habits.
+4.	**Add New Habit:** Add new habit by specifying name and frequency (daily or weekly).
+5.	**Check-off Habits:** Mark habit by specifying it's name as completed.
+6.	**Delete Habit:** Delete habit by specifying it's name.
+7.	**View Daily Habits:** Display daily habits with their streaks with GUI.
+8.	**View Weekly Habits:** Display weekly habits with their streaks with GUI.
+9.	**View All Habits:** Display all habits including their creation date and thier number of streaks with GUI.
+10.	**View Longest Habit Streak:** Display habit with the highest number streaks with GUI.
+11.	**View Struggled Habits Last Month:** Display habit that user struggled with in the previous month with GUI.
 12.	**Logout:** Log out current user from the app.
-13.	**Exit App:** Exits Habit Tracker app.
+13.	**Exit App:** Exit Habit Tracker app.
 
 
 ## 🛠️ Tests
