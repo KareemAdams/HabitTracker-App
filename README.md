@@ -50,23 +50,11 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 3.	View Analytics: Get insights on habit streaks and completion rates.
 4.	Stay Motivated: Receive motivational reminders.
 
+## 🛠️ Tests
 
-## 🤝 Contributing
+Unittest framework is used to test the Habit Tracker App crucial features. All the key features are put to test in test_habit_tracker.py.
 
-Contributions are welcome! If you’d like to improve the app, please follow these steps:
-
-1.	Fork the repository.
-
-2.	Create a feature branch:
-    git checkout -b feature-name
-
-3.	Commit your changes:
-    git commit -m "Add new feature"
-
-4.	Push to your branch:
-    git push origin feature-name
-
-5.	Open a Pull Request.
+    python -m test_habit_tracker.py
 
 
 ## 📄 License
