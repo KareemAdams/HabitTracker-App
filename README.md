@@ -16,7 +16,7 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
 ## 🚀 Tech Stack
 
-- **Frontend**: [Python](https://python.org), (requires version 3.11 and above)
+- **Frontend**: [Python](https://python.org), (requires version 3.8 and above)
 - **Database**: [JSON](https://www.json.oorg)  
 - **Test Unit**: [unittest](https://docs.python.org/3.11/library/unittest.html)  
 - **Visualization Tools**: [Matplotlib](https://matplotlib.org), (requires version 3.7 and above)
@@ -40,21 +40,31 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
         pip install unittest
 
 4.	Start HabitTracker app:
-    execute main.py
+    python main.py
 
 
 ## 📈 How It Works
 
-1.	Add Habits: Create habits by specifying the name and frequency.
-2.	Track Daily Progress: Mark habits as complete on a daily basis.
-3.	View Analytics: Get insights on habit streaks and completion rates.
-4.	Stay Motivated: Receive motivational reminders.
+1.	**Register User:** Create a new user with username and password.
+2.	**Login:** Log in user to the app.
+3.	**Load Predefined Habits:** Loads 5 predefined habits with 2 weekly and 3 daily habits.
+4.	**Add New Habit:** Adds new habit by specifying name and frequency (daily or weekly).
+5.	**Check-off Habits:** Marks habit by specifying it's name as completed.
+6.	**Delete Habit:** Deletes habit by specifying it's name.
+7.	**View Daily Habits:** Displays daily habits with their streaks with GUI.
+8.	**View Weekly Habits:** Displays weekly habits with their streaks with GUI.
+9.	**View All Habits:** Displays all habits including their creation date and thier number of streaks with GUI.
+10.	**View Longest Habit Streak:** Displays habit with the highest number streaks with GUI.
+11.	**View Struggled Habits Last Month:** Displays habit that user struggled with in the previous month with GUI.
+12.	**Logout:** Log out current user from the app.
+13.	**Exit App:** Exit Habit Tracker app.
+
 
 ## 🛠️ Tests
 
 Unittest framework is used to test the Habit Tracker App crucial features. All the key features are put to test in test_habit_tracker.py.
 
-    python -m test_habit_tracker.py
+    python -m unittest test_habit_tracker.py
 
 
 ## 📄 License
