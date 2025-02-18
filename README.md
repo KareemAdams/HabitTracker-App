@@ -73,7 +73,7 @@ Unittest framework is used to test the Habit Tracker App crucial features. All t
 
 ## 👨‍💻 Authors
 
-- Kareem Adams
+- Dennis K Adams
 
 
 ## 🧾 Acknowledgments
