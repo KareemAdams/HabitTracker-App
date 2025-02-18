@@ -25,7 +25,7 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KareemAdams/HabitTracker-App.git
+   git clone https://github.com/KareemAdams/HabitTracker-App
 
 2.	Navigate to the project directory:
     cd habit-tracker-app
