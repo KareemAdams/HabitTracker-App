@@ -28,22 +28,22 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
    git clone https://github.com/KareemAdams/HabitTracker-App
 
 2.	Navigate to the project directory:
-    cd habit-tracker-app
+    cd HabitTracker-App
 
 3.	Install dependencies:
-
-    - install Matplotlib
-        pip install matplotlib
     
     - install Python unittest
         pip install unittest
 
 4.	Start HabitTracker app:
-    python main.py
+        python main.py
 
 
 ## 📈 How It Works
 
++-------------------+
+| HabitTracker Menu |
++-------------------+
 1.	**Register User:** Create a new user with username and password.
 2.	**Login:** Log in user to the app.
 3.	**Load Predefined Habits:** Load 5 predefined habits with 2 weekly and 3 daily habits.
@@ -68,7 +68,7 @@ Unittest framework is used to test the Habit Tracker App crucial features. All t
 
 ## 📄 License
 
-- This project is not undr any licensed.
+- This is a school project.
 
 
 ## 👨‍💻 Authors
@@ -79,9 +79,8 @@ Unittest framework is used to test the Habit Tracker App crucial features. All t
 ## 🧾 Acknowledgments
 
 - Icons by FontAwesome.
-- Data visualization by Matplotlib.
 
 
 ## 📬 Feedback & Support
 
-- Have feedback or need help? Feel free to open an issue or reach out at kareem@kerrysson.com.
+- Have feedback or need help? Feel free to reach out to kareem@kerrysson.com.
