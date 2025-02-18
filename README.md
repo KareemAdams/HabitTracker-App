@@ -83,4 +83,4 @@ Unittest framework is used to test the Habit Tracker App crucial features. All t
 
 ## 📬 Feedback & Support
 
-- Have feedback or need help? Feel free to reach out to kareem@kerrysson.com.
+- Have feedback or need help? Feel free to reach out to dennis.adams@iu-study.org
