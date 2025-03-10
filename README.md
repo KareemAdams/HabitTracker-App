@@ -23,17 +23,20 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
 ## 🛠️ Installation
 
-1. Clone the repository:
+1.	Install dependencies:
+
+    - install Python 3.8 or above
+
+    - install Python unittest
+        pip install unittest
+
+2. Clone the repository:
+
    ```bash
    git clone https://github.com/KareemAdams/HabitTracker-App
 
-2.	Navigate to the project directory:
+3.	Navigate to the project directory:
     cd HabitTracker-App
-
-3.	Install dependencies:
-    
-    - install Python unittest
-        pip install unittest
 
 4.	Start HabitTracker app:
         python main.py
