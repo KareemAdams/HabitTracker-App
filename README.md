@@ -7,7 +7,7 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
 - **Daily Habit Tracking**: monitor habits with an easy-to-use interface.
 - **Custom Habit Creation**: create and personalize habits to suit your lifestyle.
-- **Preloaded Habit Creation**: preloads mixtures of daily and weekly habits with 1 month data.
+- **Preloaded Habit Creation**: preloads mixtures of daily and weekly habits with 28 days data.
 - **Progress Visualization**: view streaks and progress through charts.
 - **View Habit Analytics**: get timely reminders to stay on track.
 - **JSON**: stores data using JSON file for simplicity, ensuring persistence across sessions.
@@ -17,7 +17,7 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 ## 🚀 Tech Stack
 
 - **Frontend**: [Python](https://python.org), (requires version 3.8 and above)
-- **Database**: [JSON](https://www.json.oorg)  
+- **Database**: [JSON](https://www.json.org)  
 - **Test Unit**: [unittest](https://docs.python.org/3.11/library/unittest.html)  
 
 
