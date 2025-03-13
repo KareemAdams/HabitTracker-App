@@ -25,9 +25,10 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
 1.	Install dependencies:
 
-        - install Python 3.8 or above
+        install Python 3.8 or above
 
-        - install Python unittest
+        install Python unittest
+        
             pip install unittest
 
 2.  Download the repository:
