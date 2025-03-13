@@ -51,8 +51,6 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 
         to login with the username and password given in option 1.
 
-        **Note:** username and password are case sensitive.
-
 7.  Select **option 3**:
 
         to load the 5 predefined habits.
