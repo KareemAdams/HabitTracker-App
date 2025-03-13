@@ -33,7 +33,7 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/KareemAdams/HabitTracker-App
+   git clone https://github.com/KareemAdams/HabitTracker-App.git
 
 3.	Navigate to the project directory:
     cd HabitTracker-App
