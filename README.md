@@ -21,25 +21,43 @@ A simple and intuitive **Habit Tracker App** designed to help users build and ma
 - **Test Unit**: [unittest](https://docs.python.org/3.11/library/unittest.html)  
 
 
-## 🛠️ Installation
+## 🛠️ Installation & Initial Setup
 
 1.	Install dependencies:
 
-    - install Python 3.8 or above
+        - install Python 3.8 or above
 
-    - install Python unittest
-        pip install unittest
+        - install Python unittest
+            pip install unittest
 
-2. Clone the repository:
+2.  Download the repository:
 
-   ```bash
-   git clone https://github.com/KareemAdams/HabitTracker-App.git
+        https://github.com/KareemAdams/HabitTracker-App.git
 
 3.	Navigate to the project directory:
-    cd HabitTracker-App
+    
+        cd HabitTracker-App-main
 
 4.	Start HabitTracker app:
+        
         python main.py
+
+5.  Select **option 1**: 
+    
+        to register a user.
+
+6.  Select **option 2**:
+
+        to login with the username and password given in option 1.
+
+        **Note:** username and password are case sensitive.
+
+7.  Select **option 3**:
+
+        to load the 5 predefined habits.
+
+
+    **Note:** habit names, usernames and passwords are case sensitive.
 
 
 ## 📈 How It Works
@@ -71,19 +89,19 @@ Unittest framework is used to test the Habit Tracker App crucial features. All t
 
 ## 📄 License
 
-- This is a school project.
+    - This is a school project.
 
 
 ## 👨‍💻 Authors
 
-- Dennis K Adams
+    - Dennis K Adams
 
 
 ## 🧾 Acknowledgments
 
-- Icons by FontAwesome.
+    - Icons by FontAwesome.
 
 
 ## 📬 Feedback & Support
 
-- Have feedback or need help? Feel free to reach out to dennis.adams@iu-study.org
+    - Have feedback or need help? Feel free to reach out to dennis.adams@iu-study.org
